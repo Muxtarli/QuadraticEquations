@@ -11,7 +11,7 @@ public class QuadraticEquations {
         int c = sc.nextInt();
 
         if (b * b - 4 * a * c > 0)
-            System.out.println("Quadratic equation has 2 roots x1 = -2 | x2 = -3);
+            System.out.println("Quadratic equation has 2 roots x1 = -2 | x2 = -3");
         else if (b * b - 4 * a * c == 0)
             System.out.println("Quadratic equation has 1 root");
         else
